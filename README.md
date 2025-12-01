@@ -2,7 +2,7 @@
 
 _A Front-End E-Commerce UI Built with Flet_
 
-![alt text](images/coverpage.jpg)
+![alt text](Images/coverpage.jpg)
 
 ---
 
